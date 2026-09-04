@@ -291,3 +291,4 @@ http://127.0.0.1:8000/docs.
 ---
 
 Built with **React + FastAPI + PostgreSQL + JWT**. © Prachay Assessment Task.
+Last updated: 2026
